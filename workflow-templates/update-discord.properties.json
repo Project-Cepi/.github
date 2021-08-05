@@ -1,0 +1,11 @@
+{
+    "name": "Update Discord",
+    "description": "Will update the commit hash of this project on Discord",
+    "iconName": "discord",
+    "filePattern": [
+        "/update-commit\\.main\\.kts/gm"
+    ],
+    "categories": [
+        "Kotlin"
+    ]
+}
