@@ -1,4 +1,4 @@
-# Cepi
+# Cepi <img src="https://github.com/Project-Cepi/branding/blob/main/cepi-icon.png?raw=true" width=25>
 [![wiki](https://img.shields.io/badge/documentation-wiki-74aad6?style=for-the-badge)](https://project-cepi.github.io/)
 [![discord-banner](https://img.shields.io/discord/706185253441634317?label=discord&style=for-the-badge&color=7289da)](https://discord.cepi.world/8K8WMGV)
 
