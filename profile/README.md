@@ -1,3 +1,10 @@
 # Cepi
+[![wiki](https://img.shields.io/badge/documentation-wiki-74aad6?style=for-the-badge)](https://project-cepi.github.io/)
+[![discord-banner](https://img.shields.io/discord/706185253441634317?label=discord&style=for-the-badge&color=7289da)](https://discord.cepi.world/8K8WMGV)
 
+## About
 Cepi is an open source Minecraft MMORPG that's focused on systematic tooling and enjoyable content.
+
+## Contact
+
+If you have any questions/feedback and would like to directly connect to the team, join our [discord](https://discord.cepi.world/8K8WMGV)
