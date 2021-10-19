@@ -5,6 +5,14 @@
 ## About
 Cepi is an open source Minecraft MMORPG that's focused on systematic tooling and enjoyable content.
 
+## Usage
+The main cepi instance is located in `cepi.world`, and all tooling revolves around it.
+
+## Contributing
+Our development server is entirely open source. Feel free to contribute to any of the repositories below and make your stamp on the Cepi tooling!
+
+We use Kotlin as our primary language, and Java is used solely for contributing to other pieces of software.
+
 ## Contact
 
 If you have any questions/feedback and would like to directly connect to the team, join our [discord](https://discord.cepi.world/8K8WMGV)
