@@ -23,7 +23,10 @@ iwr "https://raw.githubusercontent.com/Project-Cepi/localhost/main/install.ps1" 
 ## Contributing
 Our development server is entirely open source. Feel free to contribute to any of the repositories below and make your stamp on the Cepi tooling!
 
-We use Kotlin as our primary language, and Java is used solely for contributing to other pieces of software.
+We use Kotlin as our primary language. New repositories are templated with [ExampleExtension](https://github.com/Project-Cepi/ExampleExtension).
+
+[KStom](https://github.com/Project-Cepi/KStom) is our general kotlin to minestom library,
+and [Kepi](https://github.com/Project-Cepi/Kepi) is our inhouse stdlib as a common dependency for all Cepi extensions.
 
 ## Contact
 
