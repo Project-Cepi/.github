@@ -8,6 +8,18 @@ Cepi is an open source Minecraft MMORPG that's focused on systematic tooling and
 ## Usage
 The main cepi instance is located in `cepi.world`, and all tooling revolves around it.
 
+### [Installation](https://github.com/Project-Cepi/localhost) (Testing / Contributing)
+
+Shell (Mac, Linux)
+```shell
+curl -fsSL https://raw.githubusercontent.com/Project-Cepi/localhost/main/install.sh | sh
+```
+
+Powershell (Windows)
+```powershell
+iwr "https://raw.githubusercontent.com/Project-Cepi/localhost/main/install.ps1" | iex
+```
+
 ## Contributing
 Our development server is entirely open source. Feel free to contribute to any of the repositories below and make your stamp on the Cepi tooling!
 
