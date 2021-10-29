@@ -1,7 +1,11 @@
 <img src="https://github.com/Project-Cepi/branding/blob/main/banner.png?raw=true" width="100%">
 
-[![wiki](https://img.shields.io/badge/documentation-wiki-74aad6?style=for-the-badge)](https://project-cepi.github.io/)
-[![discord-banner](https://img.shields.io/discord/706185253441634317?label=discord&style=for-the-badge&color=7289da)](https://discord.cepi.world/8K8WMGV)
+<p align="center">
+  <a href="https://project-cepi.github.io/"><img src="https://img.shields.io/badge/documentation-wiki-74aad6?style=for-the-badge"/></a>
+  <a href="https://discord.cepi.world/8K8WMGV"><img src="https://img.shields.io/discord/706185253441634317?label=discord&style=for-the-badge&color=7289da"/></a>
+  <img src="https://img.shields.io/badge/Made%20with-Kotlin-%23B75EA4?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/Project-Cepi?style=for-the-badge"/>
+</p>
 
 ## About
 Cepi is an open source Minecraft MMORPG that's focused on systematic tooling and enjoyable content.
